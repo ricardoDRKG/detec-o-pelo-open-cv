@@ -1,0 +1,1 @@
+# detec-o-pelo-open-cv
